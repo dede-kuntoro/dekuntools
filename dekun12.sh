@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  Dede Kuntoro  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  Instagram:  dedekuntoro"$i"                Ôûê"
-echo $i"Ôûê"$pu"  Site   :  termux.dedekuntoro.com.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  Twitter :  dedekuntoro"$i"                 Ôûê"
+echo $i"[+]"$pu"  AUTHOR  :  Dede Kuntoro  "$i" [+]
+echo $i"[+]"$pu"  Instagram:  @dedekuntoro"$i"        
+echo $i"[+]"$pu"  Site   :  http://termux.dedekuntoro.com"$i" [+]
+echo $i"[+]"$pu"  Twitter :  @dedekuntoro"$i" [+]
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -115,8 +115,8 @@ echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
+echo $pur"[+]["$pur"Masukkan pilihan anda"$pur"]"
+read -p"[+]>> " pil
 
 if [ $pil = 1 ]
 then
