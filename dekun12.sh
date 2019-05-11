@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"[+]"$pu"  AUTHOR  :  Dede Kuntoro  "$i" [+]
-echo $i"[+]"$pu"  Instagram:  @dedekuntoro"$i"        
-echo $i"[+]"$pu"  Site   :  http://termux.dedekuntoro.com"$i" [+]
-echo $i"[+]"$pu"  Twitter :  @dedekuntoro"$i" [+]
+echo $i"[+]"$pu"  AUTHOR  :  Dede Kuntoro  [+]"
+echo $i"[+]"$pu"  Instagram:  @dedekuntoro [+]"
+echo $i"[+]"$pu"  Site   :  http://termux.dedekuntoro.com [+]"
+echo $i"[+]"$pu"  Twitter :  @dedekuntoro [+]"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
