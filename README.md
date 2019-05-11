@@ -3,6 +3,7 @@
 username = Dede      
 
 password = jomblosabar
+
 =========================
 
 Perintah:
@@ -21,7 +22,7 @@ pkg install git
 
 git clone https://github.com/dede-kuntoro/dekuntools
 
-cd ToolsLengkap
+cd dekuntools
 
 ls
 
