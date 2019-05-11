@@ -1,9 +1,11 @@
 # dekuntools
 
-username = 'Dede'      
+username = Dede      
 
-password = 'jomblosabar'
+password = jomblosabar
+=========================
 
+Perintah:
 
 pkg update && pkg upgrade
 
