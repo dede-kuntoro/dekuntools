@@ -5,8 +5,7 @@ username = Dede
 password = jomblosabar
 
 =========================
-DiCopy paste setiap perintah 
-biar ga salah:
+
 =========================
 
 pkg update && pkg upgrade
